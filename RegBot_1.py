@@ -53,7 +53,7 @@ class RegBot():
             "//button[@class='btnatp JQButtonSmall ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only small-button']").click()
         return
 def main():
-    bot = RegBot('jgreen25', 'hawkeny0GHM', 'MATH-1110-01')
+    bot = RegBot('##########', '############', 'MATH-1110-01')
     bot.sign_in()
     #bot.go_to_schedule()
     #bot.add_class()
